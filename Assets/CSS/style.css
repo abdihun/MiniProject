@@ -1,0 +1,29 @@
+* {font-family: sans-serif;}
+
+.box-1{
+    background-color: green;
+    color: white;
+    text-align: right;
+    margin: -22px
+
+}
+.box-2 {
+    text-align: center;
+}
+
+.box-3{
+    text-align: center;
+}
+
+.box-4 {
+    text-align: center;
+    background-color: tan;
+    margin: -22px;
+}
+
+.box-5 {
+    text-align: center;
+    color: white;
+    background-color: green;
+    margin: -22px
+}
